@@ -11,8 +11,6 @@ We are always looking for enthusiastic people to join the lab. If you are intere
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
 {%
@@ -20,7 +18,6 @@ We are always looking for enthusiastic people to join the lab. If you are intere
   link="projects"
   text="Read more about our research"
   icon="fa-solid fa-arrow-right"
-  flip=true
   style="bare"
 %}
 
