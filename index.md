@@ -18,6 +18,7 @@ We are always looking for enthusiastic people to join the lab. If you are intere
   link="projects"
   text="Read more about our research"
   icon="fa-solid fa-arrow-right"
+  flip=true
   style="bare"
 %}
 
@@ -28,7 +29,7 @@ We are always looking for enthusiastic people to join the lab. If you are intere
   image="images/photo.jpg"
   link="projects"
   title="Our Research"
-  flip=true
+  <!-- flip=true -->
   style="bare"
   text=text
 %}
@@ -41,7 +42,6 @@ We are always looking for enthusiastic people to join the lab. If you are intere
   link="research"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
-  flip=true
   style="bare"
 %}
 
