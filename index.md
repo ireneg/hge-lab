@@ -51,6 +51,7 @@ We are always looking for enthusiastic people to join the lab. If you are intere
   image="images/photo.jpg"
   link="research"
   title="Our Publications"
+  flip=true
   text=text
 %}
 
