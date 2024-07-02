@@ -137,7 +137,7 @@ linkedin:
   link: https://www.linkedin.com/in/$VALUE
 
 bluesky:
-  icon: fa-brands fa-linkedin
+  icon: fa-brands fa-bluesky
   text: bluesky
   tooltip: bluesky
   link: https://bsky.app/profile/$VALUE.bsky.social
