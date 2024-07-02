@@ -29,7 +29,6 @@ We are always looking for enthusiastic people to join the lab. If you are intere
   image="images/photo.jpg"
   link="projects"
   title="Our Research"
-  <!-- flip=true -->
   style="bare"
   text=text
 %}
