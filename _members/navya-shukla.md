@@ -4,7 +4,7 @@ image: images/team/Navya2.jpg
 role: phd
 group: current
 links:
-  github: john-doe
+  # github: john-doe
 ---
 
 
