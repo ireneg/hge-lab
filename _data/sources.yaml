@@ -1,21 +1,4 @@
 
-#add missing papers:
-- id: doi:10.1101/2024.04.11.24305690 
-  publisher: Genome Medicine
-  date: '2024-12-06'
-  tags:
-    - human diversity
-    - MAVE
-
-- id: 10.1016/j.ajhg.2024.09.004
-  publisher: American Journal of Human Genetics
-  date: '2024-11-07'
-  tags:
-    - human diversity
-    - Indonesia
-    - splicing
-
-
 #update preprints
 - id: 10.1101/2024.10.11.617967
   type: preprint
