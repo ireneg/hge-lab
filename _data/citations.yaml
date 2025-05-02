@@ -241,15 +241,15 @@
   igr: true
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:34788801
-  title: Genetic Diversity in Chimpanzee Transcriptomics Does Not Represent Wild Populations.
+- id: doi:10.1093/gbe/evab247
+  title: Genetic Diversity in Chimpanzee Transcriptomics Does Not Represent Wild Populations
   authors:
   - Navya Shukla
   - Bobbie Shaban
   - Irene Gallego Romero
-  publisher: Genome biology and evolution
-  date: '2021-11-05'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34788801
+  publisher: Genome Biology and Evolution
+  date: '2021-11-01'
+  link: https://doi.org/g9g6cg
   orcid: 0000-0003-1613-8998
   igr: true
   plugin: orcid.py
