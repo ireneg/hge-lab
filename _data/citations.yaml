@@ -1,5 +1,55 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.7554/eLife.103592
+  title: Gene regulatory dynamics during craniofacial development in a carnivorous
+    marsupial
+  authors:
+  - Laura E Cook
+  - Charles Y Feigin
+  - John Hills
+  - Davide M Vespasiani
+  - Andrew J Pask
+  - Irene Gallego Romero
+  publisher: eLife Sciences Publications, Ltd
+  date: '2025-01-07'
+  link: https://doi.org/g9g52f
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.103592.1
+  title: Gene regulatory dynamics during craniofacial development in a carnivorous
+    marsupial
+  authors:
+  - Laura E Cook
+  - Charles Y Feigin
+  - John Hills
+  - Davide M Vespasiani
+  - Andrew J Pask
+  - Irene Gallego Romero
+  publisher: eLife Sciences Publications, Ltd
+  date: '2025-01-07'
+  link: https://doi.org/g9g52g
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.10.11.617967
+  title: Public RNA-seq data are not representative of global human diversity
+  authors:
+  - Irene Gallego Romero
+  - Grace Rodenberg
+  - Audrey M. Arner
+  - Lani Li
+  - Isobel J. Beasley
+  - Ryan Rossow
+  - Nicholas Ryan
+  - Selina Wang
+  - Amanda J. Lea
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-12'
+  link: https://doi.org/g9g52h
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.05.07.593052
   title: Profiling genetically driven alternative splicing across the Indonesian Archipelago
   authors:
@@ -100,11 +150,12 @@
   tags:
   - perspective
 - id: doi:10.1101/2023.02.13.528361
-  title: <i>Cis</i>-regulatory landscapes of the fat-tailed dunnart and mouse provide
-    insights into the drivers of craniofacial heterochrony
+  title: Gene regulatory dynamics during craniofacial development in a carnivorous
+    marsupial
   authors:
   - Laura E. Cook
   - Charles Y. Feigin
+  - John Hills
   - Davide M. Vespasiani
   - Andrew J. Pask
   - Irene Gallego Romero
@@ -214,8 +265,8 @@
   - Papua New Guinea
   - human evolution
 - id: doi:10.1101/2021.01.07.425684
-  title: Transcriptomic profiles of <i>Plasmodium falciparum</i> and <i>Plasmodium
-    vivax</i>-infected individuals in Indonesia
+  title: Transcriptomic profiles of<i>Plasmodium falciparum</i>and<i>Plasmodium vivax</i>-infected
+    individuals in Indonesia
   authors:
   - Katalina Bobowik
   - Din Syafruddin
@@ -330,7 +381,7 @@
   title: Genetic Variation, Not Cell Type of Origin, Underlies Regulatory Differences
     in iPSCs
   authors:
-  - Courtney L Kagan
+  - Courtney L. Kagan
   - Nicholas E Banovich
   - Bryan J Pavlovic
   - Kristen Patterson
