@@ -1,6 +1,6 @@
 ---
 name: Lani Li
-image: images/team/lani.jpeg
+image: images/team/lani.jpg
 role: tech
 group: current
 ---

@@ -13,6 +13,7 @@ If you are interested in the work we do and looking for an honours, masters or P
 
 ## Current lab members
 
+{% include list.html data="members" component="portrait" filter="role =~ /pi/i" %}
 {% include list.html data="members" component="portrait" filter="group =~ /current/i" %}
 
 ## Lab alumni
