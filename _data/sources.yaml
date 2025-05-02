@@ -1,7 +1,7 @@
 
 #update preprints
 
-- id: 10.1101/2024.10.11.617967
+- id: doi:10.1101/2024.10.11.617967
   type: preprint
   publisher: bioRxiv
   date: '2024-10-11'
@@ -31,6 +31,53 @@
 
 # remove duplicates:
 
+- id: pmid:26102527
+  remove: true
+- id: pmid:26102527
+  remove: true
+- id: pmid:26102527
+  remove: true
+- id: pmid:26102527
+  remove: true
+- id: pmid:26102527
+  remove: true
+- id: pmid:26102527
+  remove: true
+- id: pmid:26102527
+  remove: true
+
+
+
+- id: pmid:26812582
+  remove: true
+
+- id: pmid:26249230
+  remove: true
+
+- id: pmid:25714340
+  remove: true
+
+- id: pmid:26102527
+  remove: true
+
+- id: pmid:25230663
+  remove: true
+
+- id: doi:10.1016/j.ajhg.2012.01.001
+  remove: true
+
+- id: pmid:18766200
+  remove: true
+
+- id: doi:10.1101/2023.02.13.528361
+  remove: true
+
+- id: doi:10.1101/2024.05.07.593052
+  remove: true
+
+- id: doi:10.7554/eLife.103592
+  remove: true
+
 - id: doi:10.1101/2024.04.11.24305690 
   remove: true
 
@@ -55,14 +102,16 @@
 
 # tags etc:
 
-- id: 10.7554/eLife.103592
+- id: pmid:37995684
+  publisher: American Journal of Human Genetics
+  tags:
+    - perspective
+    - human diversity
+
+- id: 10.7554/eLife.103592.1
   publisher: eLife
   tags:
     - marsupials
-
-- id: doi:10.1016/j.ajhg.2023.10.012
-  tags:
-    - human diversity
 
 - id: doi:10.1126/science.adh0745
   tags:
