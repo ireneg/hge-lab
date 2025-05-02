@@ -1,22 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.7554/eLife.103592
-  title: Gene regulatory dynamics during craniofacial development in a carnivorous
-    marsupial
-  authors:
-  - Laura E Cook
-  - Charles Y Feigin
-  - John Hills
-  - Davide M Vespasiani
-  - Andrew J Pask
-  - Irene Gallego Romero
-  publisher: eLife Sciences Publications, Ltd
-  date: '2025-01-07'
-  link: https://doi.org/g9g52f
-  orcid: 0000-0003-1613-8998
-  igr: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.7554/eLife.103592.1
   title: Gene regulatory dynamics during craniofacial development in a carnivorous
     marsupial
@@ -30,6 +13,35 @@
   publisher: eLife Sciences Publications, Ltd
   date: '2025-01-07'
   link: https://doi.org/g9g52g
+  orcid: 0000-0003-1613-8998
+  igr: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13073-024-01392-7
+  title: Using multiplexed functional data to reduce variant classification inequities
+    in underrepresented populations
+  authors:
+  - Moez Dawood
+  - Shawn Fayer
+  - Sriram Pendyala
+  - Mason Post
+  - Divya Kalra
+  - Karynne Patterson
+  - Eric Venner
+  - Lara A. Muffley
+  - Douglas M. Fowler
+  - Alan F. Rubin
+  - Jennifer E. Posey
+  - Sharon E. Plon
+  - James R. Lupski
+  - Richard A. Gibbs
+  - Lea M. Starita
+  - Carla Daniela Robles-Espinoza
+  - Willow Coyote-Maestas
+  - Irene Gallego Romero
+  publisher: Genome Medicine
+  date: '2024-12-03'
+  link: https://doi.org/g9g55j
   orcid: 0000-0003-1613-8998
   igr: true
   plugin: orcid.py
@@ -1288,25 +1300,6 @@
   tags:
   - gene regulation
   - iPSCs
-- id: 10.1016/j.ajhg.2024.09.004
-  title: Profiling genetically driven alternative splicing across the Indonesian archipelago
-  authors:
-  - Neke Ibeh
-  - Pradiptajati Kusuma
-  - Chelzie Crenna Darusallam
-  - Safarina G. Malik
-  - Herawati Sudoyo
-  - Davis J. McCarthy
-  - Irene Gallego Romero
-  publisher: American Journal of Human Genetics
-  date: '2024-11-07'
-  link: https://doi.org/g9g55g
-  tags:
-  - human diversity
-  - Indonesia
-  - splicing
-  plugin: sources.py
-  file: sources.yaml
 - id: 10.1101/2024.10.11.617967
   title: Public RNA-seq data are not representative of global human diversity
   authors:
