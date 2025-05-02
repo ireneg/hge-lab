@@ -15,4 +15,4 @@ Below you can find a list of all of our publications. We are committed to carryi
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" filter="id =~ /^pmid/" %}
+{% include list.html data="citations" component="citation" style="rich" filter="id != /pmid/" %}
