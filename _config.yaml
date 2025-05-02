@@ -9,11 +9,10 @@ proofer: false
 # site social media and other links
 links:
   email: irene.gallego@svi.edu.au
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0003-1613-8998
   google-scholar: 1hptO8sAAAAJ
-  github: irenegDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: irenegDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: irenegDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  github: ireneg
+  bluesky: ee_reh_neh
 
 ### jekyll settings
 
