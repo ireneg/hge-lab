@@ -1,6 +1,6 @@
 ---
 name: Patrick Gibbs
-image: images/photo.jpg
+image: images/team/patrick.jpg
 role: tech
 group: current
 ---
