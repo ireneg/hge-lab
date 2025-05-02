@@ -7,6 +7,7 @@
   date: '2024-10-11'
   tags:
     - human diversity
+    - metascience
 
 - id: doi:10.1101/2021.01.07.425684
   type: preprint
@@ -31,42 +32,7 @@
 
 # remove duplicates:
 
-- id: pmid:26102527
-  remove: true
-- id: pmid:26102527
-  remove: true
-- id: pmid:26102527
-  remove: true
-- id: pmid:26102527
-  remove: true
-- id: pmid:26102527
-  remove: true
-- id: pmid:26102527
-  remove: true
-- id: pmid:26102527
-  remove: true
-
-
-
-- id: pmid:26812582
-  remove: true
-
-- id: pmid:26249230
-  remove: true
-
-- id: pmid:25714340
-  remove: true
-
-- id: pmid:26102527
-  remove: true
-
-- id: pmid:25230663
-  remove: true
-
 - id: doi:10.1016/j.ajhg.2012.01.001
-  remove: true
-
-- id: pmid:18766200
   remove: true
 
 - id: doi:10.1101/2023.02.13.528361
@@ -102,8 +68,7 @@
 
 # tags etc:
 
-- id: pmid:37995684
-  publisher: American Journal of Human Genetics
+- id: doi:10.1016/j.ajhg.2023.10.012
   tags:
     - perspective
     - human diversity
