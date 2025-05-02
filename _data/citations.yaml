@@ -27,8 +27,11 @@
   link: https://doi.org/g9g55j
   orcid: 0000-0003-1613-8998
   igr: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - MAVE
+  - human diversity
 - id: doi:10.1101/2024.10.11.617967
   title: Public RNA-seq data are not representative of global human diversity
   authors:
@@ -72,34 +75,6 @@
   tags:
   - marsupials
   - resource
-- id: ppr:PPR837304
-  title: Defining and Reducing Variant Classification Disparitie
-  authors:
-  - Moez Dawood
-  - Shawn Fayer
-  - Sriram Pendyala
-  - Mason Post
-  - Divya Kalra
-  - Karynne Patterson
-  - Eric Venner
-  - Lara Muffley
-  - Douglas Fowler
-  - Alan Rubin
-  - Jennifer Posey
-  - Sharon Plon
-  - James Lupski
-  - Richard Gibbs
-  - Lea Starita
-  - Carla Daniela Robles-Espinoza
-  - Willow Coyote-Maestas
-  - Irene Gallego Romero
-  publisher: ''
-  date: '2024-01-01'
-  link: https://doi.org/10.1101/2024.04.11.24305690
-  orcid: 0000-0003-1613-8998
-  igr: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:37995684
   title: Increasing diversity of functional genetics studies to advance biological
     discovery and human health.
@@ -252,8 +227,11 @@
   link: https://doi.org/g9g6cg
   orcid: 0000-0003-1613-8998
   igr: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - chimpanzee
+  - metascience
 - id: pmid:34383935
   title: Papua New Guinean Genomes Reveal the Complex Settlement of North Sahul.
   authors:
