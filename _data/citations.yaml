@@ -380,6 +380,25 @@
   orcid: 0000-0003-1613-8998
   plugin: orcid.py
   file: orcid.yaml
+- id: pmid:30952160
+  title: Ancestry-Specific Analyses Reveal Differential Demographic Histories and
+    Opposite Selective Pressures in Modern South Asian Populations.
+  authors:
+  - Burak Yelmen
+  - Mayukh Mondal
+  - Davide Marnetto
+  - Ajai K Pathak
+  - Francesco Montinaro
+  - Irene Gallego Romero
+  - Toomas Kivisild
+  - Mait Metspalu
+  - Luca Pagani
+  publisher: Molecular biology and evolution
+  date: '2019-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30952160
+  orcid: 0000-0003-1613-8998
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/466631
   title: Widespread conservation of chromatin accessibility patterns and transcription
     factor binding in human and chimpanzee induced pluripotent stem cells
