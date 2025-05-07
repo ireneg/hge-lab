@@ -1,37 +1,37 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.7554/eLife.103592
-  title: Gene regulatory dynamics during craniofacial development in a carnivorous
-    marsupial
+- id: doi:10.1186/s13073-024-01392-7
+  title: Using multiplexed functional data to reduce variant classification inequities
+    in underrepresented populations
   authors:
-  - Laura E Cook
-  - Charles Y Feigin
-  - John Hills
-  - Davide M Vespasiani
-  - Andrew J Pask
+  - Moez Dawood
+  - Shawn Fayer
+  - Sriram Pendyala
+  - Mason Post
+  - Divya Kalra
+  - Karynne Patterson
+  - Eric Venner
+  - Lara A. Muffley
+  - Douglas M. Fowler
+  - Alan F. Rubin
+  - Jennifer E. Posey
+  - Sharon E. Plon
+  - James R. Lupski
+  - Richard A. Gibbs
+  - Lea M. Starita
+  - Carla Daniela Robles-Espinoza
+  - Willow Coyote-Maestas
   - Irene Gallego Romero
-  publisher: eLife Sciences Publications, Ltd
-  date: '2025-01-07'
-  link: https://doi.org/g9g52f
+  publisher: Genome Medicine
+  date: '2024-12-03'
+  link: https://doi.org/g9g55j
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.7554/eLife.103592.1
-  title: Gene regulatory dynamics during craniofacial development in a carnivorous
-    marsupial
-  authors:
-  - Laura E Cook
-  - Charles Y Feigin
-  - John Hills
-  - Davide M Vespasiani
-  - Andrew J Pask
-  - Irene Gallego Romero
-  publisher: eLife Sciences Publications, Ltd
-  date: '2025-01-07'
-  link: https://doi.org/g9g52g
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  igr: true
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - MAVE
+  - human diversity
 - id: doi:10.1101/2024.10.11.617967
   title: Public RNA-seq data are not representative of global human diversity
   authors:
@@ -44,32 +44,17 @@
   - Nicholas Ryan
   - Selina Wang
   - Amanda J. Lea
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-10-12'
+  publisher: bioRxiv
+  date: '2024-10-11'
   link: https://doi.org/g9g52h
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2024.05.07.593052
-  title: Profiling genetically driven alternative splicing across the Indonesian Archipelago
-  authors:
-  - Neke Ibeh
-  - Pradiptajati Kusuma
-  - Chelzie Crenna Darusallam
-  - Safarina Malik
-  - Herawati Sudoyo
-  - Davis J. McCarthy
-  - Irene Gallego Romero
-  publisher: bioRxiv
-  date: '2024-05-08'
-  link: https://doi.org/gtxsrh
-  orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   type: preprint
   tags:
-  - Indonesia
   - human diversity
+  - metascience
 - id: doi:10.46471/gigabyte.118
   title: De novo transcriptome assembly and genome annotation of the fat-tailed dunnart
     (Sminthopsis crassicaudata)
@@ -84,38 +69,12 @@
   date: '2024-05-02'
   link: https://doi.org/gtxsrg
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
   - marsupials
   - resource
-- id: ppr:PPR837304
-  title: Defining and Reducing Variant Classification Disparitie
-  authors:
-  - Moez Dawood
-  - Shawn Fayer
-  - Sriram Pendyala
-  - Mason Post
-  - Divya Kalra
-  - Karynne Patterson
-  - Eric Venner
-  - Lara Muffley
-  - Douglas Fowler
-  - Alan Rubin
-  - Jennifer Posey
-  - Sharon Plon
-  - James Lupski
-  - Richard Gibbs
-  - Lea Starita
-  - Carla Daniela Robles-Espinoza
-  - Willow Coyote-Maestas
-  - Irene Gallego Romero
-  publisher: ''
-  date: '2024-01-01'
-  link: https://doi.org/10.1101/2024.04.11.24305690
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:37995684
   title: Increasing diversity of functional genetics studies to advance biological
     discovery and human health.
@@ -129,6 +88,7 @@
   date: '2023-11-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37995684
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/science.adh0745
@@ -139,29 +99,11 @@
   date: '2023-04-28'
   link: https://doi.org/gtxwv2
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
   - perspective
-- id: doi:10.1101/2023.02.13.528361
-  title: Gene regulatory dynamics during craniofacial development in a carnivorous
-    marsupial
-  authors:
-  - Laura E. Cook
-  - Charles Y. Feigin
-  - John Hills
-  - Davide M. Vespasiani
-  - Andrew J. Pask
-  - Irene Gallego Romero
-  publisher: bioRxiv
-  date: '2023-02-14'
-  link: https://doi.org/gtxsrk
-  orcid: 0000-0003-1613-8998
-  plugin: sources.py
-  file: sources.yaml
-  type: preprint
-  tags:
-  - marsupials
 - id: doi:10.1186/s13059-023-02856-6
   title: Leveraging massively parallel reporter assays for evolutionary questions
   authors:
@@ -171,6 +113,7 @@
   date: '2023-02-14'
   link: https://doi.org/gtxsrm
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -192,6 +135,7 @@
   date: '2022-12-08'
   link: https://doi.org/grf6th
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -206,6 +150,7 @@
   date: '2021-04-30'
   link: https://doi.org/gtxsrn
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -220,6 +165,7 @@
   date: '2022-03-10'
   link: https://doi.org/gtxsrp
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -241,6 +187,7 @@
   date: '2024-05-06'
   link: https://doi.org/gtxsrq
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   type: preprint
@@ -266,20 +213,25 @@
   date: '2021-12-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34919805
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:34788801
-  title: Genetic Diversity in Chimpanzee Transcriptomics Does Not Represent Wild Populations.
+- id: doi:10.1093/gbe/evab247
+  title: Genetic Diversity in Chimpanzee Transcriptomics Does Not Represent Wild Populations
   authors:
   - Navya Shukla
   - Bobbie Shaban
   - Irene Gallego Romero
-  publisher: Genome biology and evolution
-  date: '2021-11-05'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34788801
+  publisher: Genome Biology and Evolution
+  date: '2021-11-01'
+  link: https://doi.org/g9g6cg
   orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
+  igr: true
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - chimpanzee
+  - metascience
 - id: pmid:34383935
   title: Papua New Guinean Genomes Reveal the Complex Settlement of North Sahul.
   authors:
@@ -307,6 +259,7 @@
   date: '2021-10-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34383935
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.01.07.425684
@@ -323,6 +276,7 @@
   date: '2021-01-08'
   link: https://doi.org/gszbbg
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   type: preprint
@@ -347,6 +301,7 @@
   date: '2020-05-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32453742
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:32415101
@@ -378,6 +333,7 @@
   date: '2020-05-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32415101
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:30952160
@@ -397,6 +353,7 @@
   date: '2019-08-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30952160
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/466631
@@ -410,6 +367,7 @@
   date: '2018-11-09'
   link: https://doi.org/gfjwmz
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   type: preprint
@@ -431,6 +389,7 @@
   date: '2016-01-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26812582
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nature18964
@@ -519,6 +478,7 @@
   date: '2016-09-21'
   link: https://doi.org/f89kss
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -582,6 +542,7 @@
   date: '2015-08-06'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26249230
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:26102527
@@ -612,6 +573,7 @@
   date: '2015-06-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26102527
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:25714340
@@ -645,6 +607,7 @@
   date: '2015-02-25'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25714340
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
 - id: pmid:25230663
@@ -775,6 +738,7 @@
   date: '2014-09-18'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25230663
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0098076
@@ -801,6 +765,7 @@
   date: '2014-05-21'
   link: https://doi.org/f58gd9
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -816,6 +781,7 @@
   date: '2014-05-30'
   link: https://doi.org/f59ztg
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -849,6 +815,7 @@
   date: '2013-11-07'
   link: https://doi.org/gbfk5w
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -865,6 +832,7 @@
   date: '2013-09-22'
   link: https://doi.org/gb3dnh
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -892,6 +860,7 @@
   date: '2013-07-01'
   link: https://doi.org/f5p8kz
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -907,6 +876,7 @@
   date: '2012-06-18'
   link: https://doi.org/f33cpq
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -934,6 +904,7 @@
   date: '2012-07-01'
   link: https://doi.org/gcw8ph
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -965,6 +936,7 @@
   date: '2011-11-05'
   link: https://doi.org/bjnjgd
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -1028,35 +1000,11 @@
   date: '2012-02-17'
   link: https://doi.org/gfw8g2
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
   - human diversity
-- id: doi:10.1016/j.ajhg.2012.01.001
-  title: Shared and Unique Components of Human Population Structure and Genome-Wide
-    Signals of Positive Selection in South Asia
-  authors:
-  - Mait Metspalu
-  - "Irene\_Gallego Romero"
-  - Bayazit Yunusbayev
-  - Gyaneshwer Chaubey
-  - "Chandana\_Basu Mallick"
-  - Georgi Hudjashov
-  - Mari Nelis
-  - "Reedik M\xE4gi"
-  - Ene Metspalu
-  - Maido Remm
-  - Ramasamy Pitchappan
-  - Lalji Singh
-  - Kumarasamy Thangaraj
-  - Richard Villems
-  - Toomas Kivisild
-  publisher: The American Journal of Human Genetics
-  date: '2012-02-01'
-  link: https://doi.org/g9g52t
-  orcid: 0000-0003-1613-8998
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/molbev/msr190
   title: Herders of Indian and European Cattle Share Their Predominant Allele for
     Lactase Persistence
@@ -1082,6 +1030,7 @@
   date: '2011-08-11'
   link: https://doi.org/fw9j72
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -1153,6 +1102,7 @@
   date: '2011-10-07'
   link: https://doi.org/fk6gtq
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -1193,6 +1143,7 @@
   date: '2010-10-26'
   link: https://doi.org/cxck28
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -1217,6 +1168,7 @@
   date: '2009-10-07'
   link: https://doi.org/fw5j9r
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -1234,6 +1186,7 @@
   date: '2008-09-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18766200
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00439-007-0432-1
@@ -1245,6 +1198,7 @@
   date: '2007-09-28'
   link: https://doi.org/c6jd3s
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
@@ -1273,41 +1227,12 @@
   date: '2017-12-05'
   link: https://doi.org/gcn3ft
   orcid: 0000-0003-1613-8998
+  igr: true
   plugin: sources.py
   file: sources.yaml
   tags:
   - gene regulation
   - iPSCs
-- id: doi:10.1101/2024.04.11.24305690
-  title: Defining and Reducing Variant Classification Disparities
-  authors:
-  - Moez Dawood
-  - Shawn Fayer
-  - Sriram Pendyala
-  - Mason Post
-  - Divya Kalra
-  - Karynne Patterson
-  - Eric Venner
-  - Lara A. Muffley
-  - Douglas M. Fowler
-  - Alan F. Rubin
-  - Jennifer E. Posey
-  - Sharon E. Plon
-  - James R. Lupski
-  - Richard A. Gibbs
-  - Lea M. Starita
-  - Carla Daniela Robles-Espinoza
-  - Willow Coyote-Maestas
-  - Irene Gallego Romero
-  publisher: medRxiv
-  date: '2024-04-12'
-  link: https://doi.org/gtxsrf
-  type: preprint
-  tags:
-  - human diversity
-  - MAVE
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.ajhg.2023.10.012
   title: Increasing diversity of functional genetics studies to advance biological
     discovery and human health
@@ -1321,7 +1246,25 @@
   date: '2023-12-01'
   link: https://doi.org/gs8zjp
   tags:
+  - perspective
   - human diversity
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.7554/eLife.103592.1
+  title: Gene regulatory dynamics during craniofacial development in a carnivorous
+    marsupial
+  authors:
+  - Laura E Cook
+  - Charles Y Feigin
+  - John Hills
+  - Davide M Vespasiani
+  - Andrew J Pask
+  - Irene Gallego Romero
+  publisher: eLife
+  date: '2025-01-07'
+  link: https://doi.org/g9g52g
+  tags:
+  - marsupials
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/molbev/msab238
