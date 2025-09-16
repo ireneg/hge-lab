@@ -5,9 +5,7 @@ nav:
   tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
-
-### Lab guidelines
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab guidelines
 
 Welcome to the Human Genomics and Evolution group at St Vincent's Institute! This document is a shorter version of our internal lab manual sets out some of our basic tenets and policies, and is a great way to get oriented in the lab and decide whether it would be a place where you can thrive.
 
@@ -46,12 +44,6 @@ Members asked to stop any harassing behaviour are expected to comply immediately
 
 #### Getting help:
 Sometimes you might have personal problems. You are under no obligation to discuss these with me, but if I can help you with them, I will. There are campus resources available to you and you should be neither afraid nor ashamed of making use of them. Staying healthy – physically and mentally – is fundamental if you’re going to enjoy your time in academia. 
+
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include tags.html tags=site.tags %}
-
-{% include search-info.html %}
-
-{% include list.html data="posts" component="post-excerpt" %}
