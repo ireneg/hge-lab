@@ -142,6 +142,23 @@
   tags:
   - MAVE
   - human diversity
+- id: doi:10.1016/j.ajhg.2024.09.004
+  title: Profiling genetically driven alternative splicing across the Indonesian archipelago
+  authors:
+  - Neke Ibeh
+  - Pradiptajati Kusuma
+  - Chelzie Crenna Darusallam
+  - Safarina G. Malik
+  - Herawati Sudoyo
+  - Davis J. McCarthy
+  - Irene Gallego Romero
+  publisher: The American Journal of Human Genetics
+  date: '2024-11-01'
+  link: https://doi.org/g9g55g
+  orcid: 0000-0003-1613-8998
+  igr: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.10.11.617967
   title: Public RNA-seq data are not representative of global human diversity
   authors:
