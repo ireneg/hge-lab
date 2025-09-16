@@ -12,9 +12,13 @@ The lab is located in St Vincent's Institute of Medical Research. We enjoy close
 Our physical address is:
 
 Human Genomics and Evolution Group,
+
 St Vincent's Institute of Medical Research
+
 9 Princes St
+
 Fitzroy, VIC, 3065
+
 Australia
 
 {%
