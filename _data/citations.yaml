@@ -80,13 +80,16 @@
   - "Fran\xE7ois-X Ricaut"
   - Irene Gallego Romero
   - Evan E. Eichler
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2025-06-24'
   link: https://doi.org/g9tww3
   orcid: 0000-0003-1613-8998
   igr: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - Denisovan introgression
+  - human diversity
 - id: doi:10.1101/2025.05.04.652069
   title: Mapping the gene regulatory landscape of archaic hominin introgression in
     modern Papuans
@@ -103,13 +106,17 @@
   - Nicolas Brucato
   - Murray P Cox
   - Irene Gallego Romero
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2025-05-04'
   link: https://doi.org/g93sr6
   orcid: 0000-0003-1613-8998
   igr: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - Denisovan introgression
+  - human diversity
+  - MAVE
 - id: doi:10.1186/s13073-024-01392-7
   title: Using multiplexed functional data to reduce variant classification inequities
     in underrepresented populations
@@ -157,8 +164,11 @@
   link: https://doi.org/g9g55g
   orcid: 0000-0003-1613-8998
   igr: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - Indonesia
+  - splicing
 - id: doi:10.1101/2024.10.11.617967
   title: Public RNA-seq data are not representative of global human diversity
   authors:
