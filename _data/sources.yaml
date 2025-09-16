@@ -28,7 +28,18 @@
     - chimpanzees
     - iPSCs
 
+- id: doi:10.1101/2025.06.24.661368
+  publisher: bioRxiv
+  tags:
+    - Denisovan introgression
+    - human diversity
 
+- id: doi:10.1101/2025.05.04.652069
+  publisher: bioRxiv
+  tags:
+    - Denisovan introgression
+    - human diversity
+    - MAVE
 
 # remove duplicates:
 
@@ -269,3 +280,9 @@
   tags: 
     - marsupials
     - resource
+
+- id: doi:10.1016/j.ajhg.2024.09.004
+  tags:
+    - Indonesia
+    - splicing
+    
