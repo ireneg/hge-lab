@@ -2,7 +2,7 @@
 name: Muhamad Fachrul
 image: images/team/fachrul.jpg
 role: postdoc
-group: current
+group: alum
 links:
   github: fachrulm
 ---
