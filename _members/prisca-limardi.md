@@ -1,6 +1,6 @@
 ---
 name: Prisca C. Limardi
-# image: images/team/maddy.jpg
+image: images/team/Prisca.jpg
 role: phd
 group: current
 links:
