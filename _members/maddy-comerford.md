@@ -1,7 +1,7 @@
 ---
 name: Maddy Comerford
 image: images/team/maddy.jpg
-role: phd
+role: postdoc
 group: current
 links:
   # github: john-doe
