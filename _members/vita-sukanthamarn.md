@@ -4,6 +4,8 @@ image: images/team/Vita.jpeg
 role: phd
 group: current
 links:
+  orcid: 0009-0001-3973-1519
+  email: vita.sukonthamarn@svi.edu.au
   github: VitaPSC-del
 ---
 
