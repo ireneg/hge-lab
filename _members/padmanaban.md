@@ -1,7 +1,7 @@
 ---
 name: Padmanaban Venkatesan
 image: images/team/Padmanaban.jpg
-role: PhD
+role: phd
 group: current
 links:
   orcid: 0000-0001-6429-3453
