@@ -1,7 +1,7 @@
 ---
 name: Alan Tran
 image:
-role: Honours Student
+role: honours
 group: current
 ---
 Alan is an Honours Student.
