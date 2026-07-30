@@ -29,6 +29,10 @@ jobs:
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
+          # Only trusted lab members/collaborators open PRs on this repo, so it's
+          # safe to opt back in to checking out the PR head here. See:
+          # https://docs.github.com/en/actions/reference/security/securely-using-pull_request_target
+          allow-unsafe-pr-checkout: true
 
       - name: Install Ruby packages
         if: github.event.action != 'closed'

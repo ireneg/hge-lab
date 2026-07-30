@@ -37,6 +37,11 @@ jobs:
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
           ref: ${{ github.head_ref }}
+          # PRs are only ever opened by trusted lab members/collaborators, never
+          # random public contributors, so it's safe to opt back in to checking
+          # out the PR head here. See:
+          # https://docs.github.com/en/actions/reference/security/securely-using-pull_request_target
+          allow-unsafe-pr-checkout: true
 
       - name: Setup Python
         if: github.event.action != 'closed'
