@@ -1,5 +1,90 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1126/science.adz7518
+  title: A global map for introgressed structural variation and selection in humans
+  authors:
+  - PingHsun Hsieh
+  - Natthapon Soisangwan
+  - David S. Gordon
+  - Athef Javidh
+  - William T. Harvey
+  - David Porubsky
+  - Kendra Hoekzema
+  - Carl Baker
+  - Katherine M. Munson
+  - Christopher Kinipi
+  - Matthew Leavesley
+  - Nicolas Brucato
+  - Murray P. Cox
+  - "Fran\xE7ois\u2010X Ricaut"
+  - Irene Gallego Romero
+  - Evan E. Eichler
+  publisher: Science
+  date: '2026-06-11'
+  link: https://doi.org/hcc3t2
+  orcid: 0000-0003-1613-8998
+  igr: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btag315
+  title: "Lift&amp;Add\u2014rapid and robust addition of new species to alignments\
+    \ of conserved non-coding sequences"
+  authors:
+  - Navya Shukla
+  - Irene Gallego Romero
+  publisher: Bioinformatics
+  date: '2026-05-27'
+  link: https://doi.org/hcc3t3
+  orcid: 0000-0003-1613-8998
+  igr: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.02.26.708346
+  title: Power and linkage disequilibrium differences are major confounders of human
+    eQTL portability across ancestries and cohorts
+  authors:
+  - Patrick M Gibbs
+  - Isobel J Beasley
+  - Christina Brady Del Azodi
+  - Davis J McCarthy
+  - Irene Gallego Romero
+  publisher: openRxiv
+  date: '2026-02-27'
+  link: https://doi.org/hcc3t4
+  orcid: 0000-0003-1613-8998
+  igr: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.103592.3
+  title: Gene regulatory dynamics during craniofacial development in a carnivorous
+    marsupial
+  authors:
+  - Laura E Cook
+  - Charles Y Feigin
+  - John D Hills
+  - Davide M Vespasiani
+  - Andrew J Pask
+  - Irene Gallego Romero
+  publisher: eLife
+  date: '2025-10-28'
+  link: https://doi.org/hcc3t5
+  orcid: 0000-0003-1613-8998
+  igr: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.10.14.682260
+  title: Lift&amp;Add - rapid and robust addition of new species to alignments of
+    conserved non-coding sequences
+  authors:
+  - Navya Shukla
+  - Irene Gallego Romero
+  publisher: openRxiv
+  date: '2025-10-15'
+  link: https://doi.org/hcc3t6
+  orcid: 0000-0003-1613-8998
+  igr: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/eLife.103592.2
   title: Gene regulatory dynamics during craniofacial development in a carnivorous
     marsupial
@@ -376,8 +461,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.01.07.425684
-  title: Transcriptomic profiles of<i>Plasmodium falciparum</i>and<i>Plasmodium vivax</i>-infected
-    individuals in Indonesia
+  title: "Transcriptomic profiles of\n                  <i>Plasmodium falciparum</i>\n\
+    \                  and\n                  <i>Plasmodium vivax</i>\n          \
+    \        -infected individuals in Indonesia"
   authors:
   - Katalina Bobowik
   - Din Syafruddin
@@ -1449,7 +1535,7 @@
   - Irene Gallego Romero
   - Jonathan K Pritchard
   - Yoav Gilad
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2015-01-19'
   link: https://doi.org/gkwc83
   tags:
