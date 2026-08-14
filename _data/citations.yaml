@@ -1,5 +1,45 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.08.09.743820
+  title: Rapid convergence toward an agriculturalist regulatory landscape following
+    lifestyle transition in Bornean hunter-gatherers
+  authors:
+  - Pradiptajati Kusuma
+  - Guy S. Jacobs
+  - Hirzi Luqman
+  - Firda A. Ma'ruf
+  - Prisca C. Limardi
+  - Herawati Sudoyo
+  - J. Stephen Lansing
+  - Safarina G. Malik
+  - Irene Gallego Romero
+  publisher: openRxiv
+  date: '2026-08-13'
+  link: https://doi.org/hcfjgp
+  orcid: 0000-0003-1613-8998
+  igr: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.xgen.2026.101326
+  title: Reporting and representation of population descriptors in public RNA-seq
+    databases
+  authors:
+  - Irene Gallego Romero
+  - Grace Rodenberg
+  - Audrey M. Arner
+  - Lani Li
+  - Isobel J. Beasley
+  - Ryan Rossow
+  - Nicholas Ryan
+  - Selina Wang
+  - Amanda J. Lea
+  publisher: Cell Genomics
+  date: '2026-08-01'
+  link: https://doi.org/hcfjgq
+  orcid: 0000-0003-1613-8998
+  igr: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1126/science.adz7518
   title: A global map for introgressed structural variation and selection in humans
   authors:
